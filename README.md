@@ -7,4 +7,4 @@ Return Animation using [ViewPropertyAnimator](https://developer.android.com/refe
 
 > Animasi sembunyi/tampil menggunakan [ViewPropertyAnimator](https://developer.android.com/reference/android/view/ViewPropertyAnimator.html) dan deteksi arah scroll menggunakan [View.OnTouchListener](https://developer.android.com/reference/android/view/View.OnTouchListener.html)
 
-![image](/storage/emulated/0/recordmaster/VideoEdit/quickret.gif)
+![image](https://github.com/agusibrahim/Simple-QuickReturn-ListView/blob/master/quickret.gif?raw=true)
